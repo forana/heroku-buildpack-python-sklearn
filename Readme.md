@@ -35,7 +35,7 @@ supported versions are:
 
 Then specify the buildpack as usual. For a new app:
 
-    heroku create --buildpack https://github.com/dbrgn/heroku-buildpack-python-sklearn/
+    heroku create --buildpack https://github.com/forana/heroku-buildpack-python-sklearn/
 
 For an existing app:
 
